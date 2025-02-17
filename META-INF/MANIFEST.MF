@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.4.2
+Build-Jdk-Spec: 17
+Main-Class: org.sonar.cxx.toolkit.CxxToolkit
+Build-Time: 2025-02-15T12:20:47+0000
+Implementation-Build: 2d6db9984a004182ae92d1fbe31c113166d5f188
+Implementation-Version: 2.2.1.1131
+Version: 2.2.1.1131
+
